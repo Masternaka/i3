@@ -17,3 +17,4 @@ micro = Terminal text editor
 redshift = Night light
 qimgv = Lightweight image viewer
 fzf, etc. = Utilities & enhancements
+lxappearance = Appearance settings
